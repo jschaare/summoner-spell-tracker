@@ -1,0 +1,11 @@
+<style global lang="postcss">
+    @tailwind base;
+    @tailwind components;
+    @tailwind utilities;
+
+    @layer base {
+        body {
+            @apply bg-gray-900;
+        }
+    }
+</style>
